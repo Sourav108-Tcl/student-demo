@@ -1,4 +1,4 @@
 # student-demo
 This is my first Git Repository.
 <br>
-Author-Sourav Bera
+Author-Sourav (Learning Hub)
